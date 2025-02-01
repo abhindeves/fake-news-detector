@@ -187,6 +187,7 @@ Instructions:
 3. Combine these pieces into a single comprehensive chain-of-thought.
 4. Decide if the news is FAKE or REAL.
 5. Clearly justify your final decision in the combined narrative.
+6. Write the reasoning in such a way that people can easly understand.
 
 Output Format:
 Your final output should contain two sections:
@@ -194,10 +195,11 @@ Overall Reasoning: A detailed explanation that synthesizes the evidence and logi
 Final Result: A clear statement indicating either "FAKE" or "REAL".
 
 Example Output:
-Overall Reasoning: [Detailed explanation combining evidence and reasoning.]
 
 Final Result: [FAKE or REAL]
-    
+
+Overall Reasoning: [Detailed explanation combining evidence and reasoning.]
+
 Reasoning Steps:
 {combined_text}
 """
