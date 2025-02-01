@@ -1,1 +1,5 @@
 streamlit
+langchain-google-genai
+python-dotenv
+tavily-python
+streamlit
