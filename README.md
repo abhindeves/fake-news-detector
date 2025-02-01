@@ -1,8 +1,3 @@
-Below is a comprehensive and detailed `README.md` in Markdown format for your project:
-
----
-
-```markdown
 # News Verification Assistant
 
 The **News Verification Assistant** is an interactive web application that leverages advanced generative AI models along with online search APIs to assess the validity of a news statement. It extracts key assumptions from a given news statement, retrieves online verification results for each assumption, and evaluates whether the news is "REAL" or "FAKE" through a reasoning-based approach.
